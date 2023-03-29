@@ -11,5 +11,5 @@
 <br>
 Hola, soy <str>Gonzalo Cuellar<str> y estoy presentando mi proyecto de Rick & Monty.
 he usado distintas tecnologias.
-voy a seguir exlicando mi proyecto dependiendo los cambios que vaya haciendo.
+voy a seguir explicando mi proyecto dependiendo los cambios que vaya haciendo.
 muchas gracias por estar aqui!!!!

@@ -9,7 +9,7 @@
 
 <img src="./screenshot.png" alt="Screenshot">
 <br>
-Hola, soy <str>Gonzalo Cuellar<str> y estoy presentando mi proyecto de Rick & Monty.
-he usado distintas tecnologias.
-voy a seguir explicando mi proyecto dependiendo los cambios que vaya haciendo.
-muchas gracias por estar aqui!!!!
+Hola, soy Gonzalo Cuellar y estoy presentando mi proyecto de Rick & Monty.<br>
+He usado distintas tecnologias.<br>
+Voy a seguir explicando mi proyecto dependiendo los cambios que vaya haciendo.<br>
+Muchas gracias por estar aqui!!!!

@@ -12,16 +12,16 @@ function App() {
       {/* Home section */}
       <Home />
 
-      {/* Characters section */}
+      {/* Seccion Personajes */}
       <Characters />
 
-      {/* Episodes section */}
+      {/* Seccion Episodios */}
       <Episodes />
 
-      {/* Locations section  */}
+      {/* Seccion Lugares  */}
       <Locations />
 
-      {/* My Watch list section */}
+      {/* Episodios por ver */}
       <List />
     </div>
   );

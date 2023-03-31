@@ -18,12 +18,13 @@ const Main = () => {
           <Typed 
             strings={[
               'Personajes',
-              'Episodios']}
+              'Episodios',
+              'La Vida']}
                 typeSpeed={100}
                 backSpeed={100}
                 loop >
             </Typed></h3>
-        <a href='#characters' className="main__container__button" data-aos="fade-up">Comencemos</a>
+        <a href='#characters' className="main__container__button" data-aos="fade-up">Login (Falta)</a>
       </div>
     </main>
   );

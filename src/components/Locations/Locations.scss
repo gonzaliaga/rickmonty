@@ -2,7 +2,7 @@
 @import "../variables.scss";
 @import "../mixins.scss";
 
-// font family Stoney face
+// font family
 @font-face {
   font-family: stoney;
   src: url("..//assets/stoney-billy/STONB___.TTF");
@@ -21,7 +21,7 @@
     &__title {
       font-family: stoney;
       color: $yellow;
-      text-shadow: 0 0 5px $yellow;
+      text-shadow: 0 0 5px $green;
       text-align: center;
       font-size: 30px;
     }
